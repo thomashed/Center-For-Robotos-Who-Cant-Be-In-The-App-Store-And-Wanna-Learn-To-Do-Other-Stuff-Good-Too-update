@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/precache-manifest.86456bbb7a2f645c35a0b9dbaf5a8d0d.js"
+  "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/precache-manifest.bcb048ee811f0e1e32063e90b677a0c5.js"
 );
 
 self.addEventListener('message', (event) => {
