@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d23ec4fda89b18ba32588fdf96549ce",
+    "revision": "ec41b8e609e2358f0a8e7501964a670d",
     "url": "/Center-For-Robotos-Who-Cant-Be-In-The-App-Store-And-Wanna-Learn-To-Do-Other-Stuff-Good-Too-update/index.html"
   },
   {
